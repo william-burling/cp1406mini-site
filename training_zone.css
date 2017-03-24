@@ -1,0 +1,7 @@
+@charset "utf-8";
+header{
+	color: Red;
+	font-size: 10em;
+	text-align: center;
+	background-color: black;
+}

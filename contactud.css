@@ -1,0 +1,8 @@
+@charset "utf-8";
+p img  {
+	min-height: 200px;
+	min-width: 20px;
+	width: 500px;
+	height: 400px;
+	display: block;
+}
